@@ -7,7 +7,7 @@ Built a Tenzies game.
 
 I learnt a lot here and this project also drew on my recent experiences on working with React. I used the useState hook to update the state of different functionalities of the game. I also used the useEffect hook to be able to interact with the localStorage.
 
-I had some challenges part of which were that I was getting an undefined from the localStorage even though I was sure that I was doing the right thing. It turned out I was checking to see if the localStorage was being set before requesting for an item. Really took me a long time but I figured it out thanks to online resources.
+I had some challenges part of which were that I was getting an undefined from the localStorage even though I was sure that I was doing the right thing. It turned out I wasn't checking to see if the localStorage was being set before requesting for an item. Really took me a long time but I figured it out thanks to online resources.
 
 I really enjoyed building the game and during the Beta stage, I had siblings and cousins try out the game which they really enjoyed playing.
 
